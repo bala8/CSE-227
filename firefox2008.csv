@@ -1,0 +1,94 @@
+CVE,InitialVersion,FinalVersion,"['reportedDate', 'fixDate', 'component', 'versions']"
+CVE-2008-5715,3.0.5,3.0.5,[]
+CVE-2008-5513,2.0,3.0.4,[]
+CVE-2008-5512,2.0,3.0.4,"[[datetime.datetime(2008, 11, 10, 20, 50), datetime.datetime(2008, 11, 19, 12, 21), u'XBL', []], [datetime.datetime(2008, 8, 21, 23, 55), datetime.datetime(2008, 12, 16, 0, 50), u'Security', []]]"
+CVE-2008-5511,2.0,3.0.4,"[[datetime.datetime(2008, 11, 10, 20, 50), datetime.datetime(2008, 11, 19, 12, 21), u'XBL', []], [datetime.datetime(2008, 8, 21, 23, 55), datetime.datetime(2008, 12, 16, 0, 50), u'Security', []]]"
+CVE-2008-5510,2.0,3.0.4,"[[datetime.datetime(2003, 12, 18, 3, 30), datetime.datetime(2008, 10, 27, 17, 32), u'CSS Parsing and Computation', []]]"
+CVE-2008-5508,2.0,3.0.4,"[[datetime.datetime(2008, 10, 20, 11, 30), datetime.datetime(2008, 10, 21, 13, 22), u'Layout', []], [datetime.datetime(2008, 3, 25, 12, 19), datetime.datetime(2008, 3, 25, 13, 32), u'Networking', []]]"
+CVE-2008-5507,2.0,3.0.4,"[[datetime.datetime(2008, 10, 26, 20, 28), datetime.datetime(2008, 12, 8, 6, 44), u'DOM', []]]"
+CVE-2008-5506,2.0,3.0.4,"[[datetime.datetime(2008, 10, 2, 11, 21), datetime.datetime(2008, 12, 8, 6, 33), u'DOM', []]]"
+CVE-2008-5505,3.0,3.0.4,"[[datetime.datetime(2005, 5, 30, 13, 24), datetime.datetime(2009, 1, 19, 17, 22), u'XUL', []]]"
+CVE-2008-5504,2.0,2.0.0.18,"[[datetime.datetime(2008, 9, 3, 14, 11), datetime.datetime(2008, 11, 16, 6, 59), u'RSS Discovery and Preview', []]]"
+CVE-2008-5503,2.0,2.0.0.18,"[[datetime.datetime(2007, 5, 7, 9, 30), datetime.datetime(2008, 11, 18, 18, 41), u'XBL', []]]"
+CVE-2008-5502,2.0,3.0.4,"[[datetime.datetime(2008, 10, 5, 23, 51), datetime.datetime(2008, 11, 14, 20, 23), u'JavaScript Engine', []]]"
+CVE-2008-5501,2.0,3.0.4,"[[datetime.datetime(2007, 9, 9, 22, 4), datetime.datetime(2007, 10, 2, 21, 30), u'Layout', []]]"
+CVE-2008-5500,2.0,3.0.4,"[[datetime.datetime(2008, 11, 14, 15, 22), datetime.datetime(2008, 11, 14, 15, 29), u'XPCOM', []], [datetime.datetime(2008, 10, 20, 11, 30), datetime.datetime(2008, 10, 21, 13, 22), u'Layout', []]]"
+CVE-2008-5052,0.8,3.0.3,"[[datetime.datetime(2008, 9, 7, 16, 15), datetime.datetime(2008, 11, 10, 9, 40), u'JavaScript Engine', []]]"
+CVE-2008-5024,0.8,3.0.3,"[[datetime.datetime(2008, 9, 5, 17, 55), datetime.datetime(2008, 11, 10, 9, 28), u'JavaScript Engine', []]]"
+CVE-2008-5023,0.8,3.0.3,"[[datetime.datetime(2008, 3, 23, 21, 39), datetime.datetime(2008, 10, 17, 18, 16), u'Security: CAPS', []]]"
+CVE-2008-5022,0.8,3.0.3,"[[datetime.datetime(2008, 10, 15, 2, 18), datetime.datetime(2008, 11, 10, 9, 43), u'Security', []]]"
+CVE-2008-5021,0.8,3.0.3,"[[datetime.datetime(2008, 10, 15, 2, 18), datetime.datetime(2008, 11, 10, 9, 43), u'Security', []]]"
+CVE-2008-5019,2.0,3.0.3,"[[None, None, None, []]]"
+CVE-2008-5018,0.8,3.0.3,"[[datetime.datetime(2008, 8, 29, 7, 34), datetime.datetime(2008, 10, 27, 10, 29), u'JavaScript Engine', []]]"
+CVE-2008-5017,0.8,3.0.3,"[[datetime.datetime(2008, 9, 18, 19, 1), datetime.datetime(2008, 10, 24, 16, 38), u'XPCOM', []]]"
+CVE-2008-5016,3.0,3.0.3,"[[None, None, None, []]]"
+CVE-2008-5015,3.0,3.0.3,"[[datetime.datetime(2008, 7, 22, 22, 55), datetime.datetime(2008, 8, 21, 21, 45), u'Security: CAPS', []]]"
+CVE-2008-5014,0.8,3.0.1,"[[datetime.datetime(2008, 5, 31, 20, 42), datetime.datetime(2008, 8, 8, 1, 14), u'JavaScript Engine', []]]"
+CVE-2008-5013,0.8,2.0.0.17,"[[datetime.datetime(2008, 5, 13, 15, 32), datetime.datetime(2008, 8, 25, 21, 11), u'Plug-ins', []]]"
+CVE-2008-5012,0.8,2.0.0.17,"[[datetime.datetime(2006, 10, 2, 6, 28), datetime.datetime(2008, 12, 9, 2, 31), u'Canvas: 2D', []], [datetime.datetime(2008, 8, 21, 13, 7), datetime.datetime(2009, 1, 5, 12, 38), u'Security', []]]"
+CVE-2008-4723,3.0.1,3.0.3,[]
+CVE-2008-4582,2.0,3.0.3,"[[datetime.datetime(2008, 9, 15, 6, 10), datetime.datetime(2008, 11, 6, 7, 13), u'Networking: File', []]]"
+CVE-2008-4324,3.0.3,3.0.3,[]
+CVE-2008-4069,0.8,2.0.0.16,"[[datetime.datetime(2008, 8, 7, 18, 55), datetime.datetime(2008, 8, 25, 15, 40), u'ImageLib', []]]"
+CVE-2008-4068,0.8,3.0.1,[]
+CVE-2008-4067,0.8,3.0.1,"[[datetime.datetime(2007, 8, 28, 15, 36), datetime.datetime(2008, 9, 30, 22, 47), u'Security', []], [datetime.datetime(2007, 5, 17, 0, 49), datetime.datetime(2008, 8, 31, 7, 7), u'Networking', []]]"
+CVE-2008-4066,2.0.0.14,2.0.0.16,"[[datetime.datetime(2008, 7, 26, 22, 35), datetime.datetime(2009, 2, 21, 9, 23), u'Networking', []]]"
+CVE-2008-4065,0.8,3.0.1,"[[datetime.datetime(2008, 4, 24, 17, 42), datetime.datetime(2008, 7, 18, 15, 56), u'JavaScript Engine', []]]"
+CVE-2008-4064,3.0,3.0.1,"[[datetime.datetime(2008, 7, 4, 22, 50), datetime.datetime(2008, 7, 9, 16, 28), u'ImageLib', []], [datetime.datetime(2008, 6, 23, 12, 12), datetime.datetime(2008, 7, 9, 17, 4), u'SVG', []], [datetime.datetime(2008, 6, 26, 3, 5), datetime.datetime(2008, 6, 27, 15, 2), u'Graphics', []]]"
+CVE-2008-4063,3.0,3.0.1,"[[datetime.datetime(2008, 7, 9, 14, 59), datetime.datetime(2008, 7, 9, 15, 0), u'Graphics', []], [datetime.datetime(2008, 5, 14, 13, 31), datetime.datetime(2008, 5, 21, 7, 11), u'DOM: Core & HTML', []], [datetime.datetime(2008, 1, 18, 17, 50), datetime.datetime(2008, 7, 23, 11, 59), u'Layout', []]]"
+CVE-2008-4062,0.8,3.0.1,"[[datetime.datetime(2008, 7, 10, 9, 47), datetime.datetime(2008, 8, 31, 5, 54), u'JavaScript Engine', []], [datetime.datetime(2008, 7, 14, 15, 1), datetime.datetime(2008, 7, 16, 3, 17), u'Plug-ins', []], [datetime.datetime(2007, 1, 22, 6, 31), datetime.datetime(2008, 6, 26, 4, 9), u'XPCOM', []]]"
+CVE-2008-4061,0.8,3.0.1,"[[datetime.datetime(2008, 7, 1, 20, 5), datetime.datetime(2008, 8, 31, 6, 19), u'MathML', []]]"
+CVE-2008-4060,0.8,3.0.1,"[[datetime.datetime(2008, 8, 18, 5, 34), datetime.datetime(2008, 8, 22, 4, 12), u'Security', []], [datetime.datetime(2008, 7, 30, 10, 8), datetime.datetime(2008, 8, 31, 16, 49), u'DOM', []]]"
+CVE-2008-4059,,2.0.0.17,"[[datetime.datetime(2008, 2, 27, 7, 41), datetime.datetime(2008, 8, 31, 17, 5), u'Security', []]]"
+CVE-2008-4058,0.8,3.0.1,"[[datetime.datetime(2008, 7, 8, 3, 17), datetime.datetime(2009, 2, 5, 22, 33), u'XPConnect', []], [datetime.datetime(2008, 7, 8, 3, 21), datetime.datetime(2009, 1, 27, 17, 25), u'XPConnect', []]]"
+CVE-2008-3837,0.8,3.0.1,"[[datetime.datetime(2006, 3, 4, 18, 33), datetime.datetime(2008, 8, 31, 5, 51), u'DOM: Events', []]]"
+CVE-2008-3836,0.8,2.0.0.16,"[[datetime.datetime(2008, 4, 24, 6, 39), datetime.datetime(2008, 5, 1, 14, 4), u'RSS Discovery and Preview', []], [datetime.datetime(2006, 11, 12, 22, 23), datetime.datetime(2008, 8, 20, 14, 56), u'RSS Discovery and Preview', []]]"
+CVE-2008-3835,0.8,2.0.0.16,"[[datetime.datetime(2008, 6, 13, 1, 50), datetime.datetime(2008, 8, 15, 14, 35), u'Security', []]]"
+CVE-2008-3444,3.0,3.0.1,"[[datetime.datetime(2008, 7, 30, 11, 50), datetime.datetime(2008, 10, 28, 15, 16), u'Layout', []]]"
+CVE-2008-3198,3.0,3.0,"[[datetime.datetime(2008, 6, 22, 11, 21), datetime.datetime(2008, 6, 30, 16, 31), u'Security: UI', []]]"
+CVE-2008-2934,3.0,3.0,"[[datetime.datetime(2008, 6, 23, 11, 32), datetime.datetime(2008, 6, 23, 18, 44), u'Graphics', []]]"
+CVE-2008-2933,0.8,3.0,"[[datetime.datetime(2008, 6, 22, 5, 16), datetime.datetime(2008, 7, 17, 8, 25), u'Startup and Profile System', []]]"
+CVE-2008-2811,2.0,2.0.0.14,"[[datetime.datetime(2008, 6, 17, 15, 26), datetime.datetime(2008, 6, 19, 5, 51), u'Layout', []]]"
+CVE-2008-2810,2.0,2.0.0.14,"[[datetime.datetime(2007, 12, 29, 3, 27), datetime.datetime(2009, 1, 5, 12, 2), u'Security', []]]"
+CVE-2008-2809,2.0.0.1,2.0.0.14,"[[datetime.datetime(2006, 2, 14, 11, 59), datetime.datetime(2008, 3, 26, 14, 4), u'Security: PSM', []], [datetime.datetime(2004, 4, 11, 14, 35), datetime.datetime(2008, 5, 6, 14, 50), u'Security: PSM', []], [datetime.datetime(2007, 11, 3, 7, 51), datetime.datetime(2016, 6, 6, 1, 8), u'Security: PSM', []]]"
+CVE-2008-2808,2.0,2.0 .10,"[[datetime.datetime(2008, 1, 8, 18, 49), datetime.datetime(2008, 6, 5, 18, 15), u'File Handling', []]]"
+CVE-2008-2807,2.0,2.0.0.14,"[[datetime.datetime(2007, 9, 21, 12, 34), datetime.datetime(2008, 3, 11, 23, 54), u'Internationalization', []]]"
+CVE-2008-2806,2.0 8,2.0 .10,"[[datetime.datetime(2007, 12, 13, 23, 7), datetime.datetime(2008, 10, 7, 20, 33), u'Plug-ins', []]]"
+CVE-2008-2805,2.0,2.0.0.14,"[[datetime.datetime(2008, 3, 17, 16, 24), datetime.datetime(2008, 5, 5, 3, 8), u'DOM: Core & HTML', []]]"
+CVE-2008-2803,2.0,2.0.0.14,"[[datetime.datetime(2008, 2, 18, 23, 27), datetime.datetime(2008, 6, 4, 12, 58), u'Security', []]]"
+CVE-2008-2802,2.0,2.0.0.14,"[[datetime.datetime(2008, 2, 27, 7, 37), datetime.datetime(2008, 6, 3, 15, 26), u'Security', []]]"
+CVE-2008-2801,2.0,2.0.0.14,"[[datetime.datetime(2008, 2, 22, 2, 4), datetime.datetime(2008, 6, 9, 16, 53), u'Security: CAPS', []], [datetime.datetime(2008, 3, 20, 12, 38), datetime.datetime(2008, 3, 20, 14, 45), u'DOM', []], [datetime.datetime(2008, 3, 21, 14, 17), datetime.datetime(2008, 6, 4, 16, 47), u'Security: CAPS', []]]"
+CVE-2008-2800,2.0,2.0.0.14,"[[datetime.datetime(2008, 6, 19, 1, 11), datetime.datetime(2008, 6, 19, 7, 23), u'Security', []], [datetime.datetime(2008, 6, 13, 1, 54), datetime.datetime(2008, 6, 19, 11, 40), u'Security', []], [datetime.datetime(2008, 5, 12, 7, 31), datetime.datetime(2008, 5, 29, 13, 0), u'Security', []], [datetime.datetime(2008, 4, 12, 8, 17), datetime.datetime(2008, 6, 3, 17, 45), u'Security', []], [datetime.datetime(2008, 5, 7, 3, 0), datetime.datetime(2008, 5, 12, 16, 14), u'Security', []]]"
+CVE-2008-2799,2.0,2.0.0.14,"[[datetime.datetime(2007, 5, 15, 20, 16), datetime.datetime(2007, 5, 27, 16, 36), u'JavaScript Engine', []], [datetime.datetime(2008, 4, 29, 14, 36), datetime.datetime(2008, 4, 29, 14, 36), u'JavaScript Engine', []], [datetime.datetime(2008, 2, 17, 13, 33), datetime.datetime(2008, 6, 16, 7, 45), u'JavaScript Engine', []], [datetime.datetime(2006, 10, 11, 23, 49), datetime.datetime(2008, 6, 12, 12, 47), u'JavaScript Engine', []]]"
+CVE-2008-2798,2.0,2.0.0.14,"[[datetime.datetime(2008, 4, 25, 9, 6), datetime.datetime(2008, 4, 25, 14, 52), u'Layout: Tables', []], [datetime.datetime(2007, 4, 19, 7, 3), datetime.datetime(2007, 4, 21, 9, 58), u'Layout: Tables', []], [datetime.datetime(2007, 8, 6, 21, 3), datetime.datetime(2008, 5, 5, 17, 23), u'XUL', []]]"
+CVE-2008-2786,2.0,3.0,[]
+CVE-2008-2785,2.0,3.0,"[[datetime.datetime(2008, 6, 18, 18, 27), datetime.datetime(2008, 6, 26, 16, 10), u'CSS Parsing and Computation', []]]"
+CVE-2008-2419,2.0.0.14,2.0.0.14,[]
+CVE-2008-2399,,,[]
+CVE-2008-2014,3.0,3.0,[]
+CVE-2008-1380,2.0,2.0.0.13,"[[datetime.datetime(2008, 3, 27, 18, 29), datetime.datetime(2008, 4, 5, 5, 0), u'JavaScript Engine', []]]"
+CVE-2008-1241,2.0.0.12,2.0.0.12,[]
+CVE-2008-1240,2.0.0.12,2.0.0.12,[]
+CVE-2008-1238,2.0.0.12,2.0.0.12,[]
+CVE-2008-1237,2.0.0.12,2.0.0.12,[]
+CVE-2008-1236,2.0.0.12,2.0.0.12,[]
+CVE-2008-1235,0.1,2.0.0.12,[]
+CVE-2008-1234,2.0.0.12,2.0.0.12,[]
+CVE-2008-1233,2.0.0.12,2.0.0.12,[]
+CVE-2008-0594,2.0.0.11,2.0.0.11,"[[datetime.datetime(2007, 12, 13, 1, 57), datetime.datetime(2007, 12, 23, 20, 49), u'Safe Browsing', []]]"
+CVE-2008-0593,0.2,2.0.0.11,"[[datetime.datetime(2007, 9, 24, 17, 44), datetime.datetime(2007, 11, 16, 13, 22), u'CSS Parsing and Computation', []]]"
+CVE-2008-0592,2.0.0.11,2.0.0.11,"[[datetime.datetime(2007, 7, 7, 12, 25), datetime.datetime(2007, 10, 10, 8, 51), u'File Handling', []]]"
+CVE-2008-0591,2.0.0.11,2.0.0.11,"[[datetime.datetime(2007, 4, 4, 5, 9), datetime.datetime(2008, 1, 27, 22, 10), u'Security', []]]"
+CVE-2008-0420,0.1,2.0.0.11,"[[datetime.datetime(2007, 12, 12, 9, 21), datetime.datetime(2007, 12, 13, 1, 56), u'ImageLib', []]]"
+CVE-2008-0419,2.0.0.11,2.0.0.11,"[[datetime.datetime(2007, 10, 20, 16, 17), datetime.datetime(2007, 12, 2, 18, 16), u'DOM', []]]"
+CVE-2008-0418,2.0.0.11,2.0.0.11,[]
+CVE-2008-0417,2.0.0.11,2.0.0.11,"[[datetime.datetime(2007, 9, 1, 19, 7), datetime.datetime(2008, 3, 18, 4, 27), u'Password Manager', []]]"
+CVE-2008-0416,2.0.0.11,2.0.0.11,"[[None, None, None, []]]"
+CVE-2008-0415,2.0.0.11,2.0.0.11,"[[None, None, None, []]]"
+CVE-2008-0414,2.0.0.11,2.0.0.11,"[[None, None, None, []]]"
+CVE-2008-0413,2.0.0.11,2.0.0.11,"[[None, None, None, []]]"
+CVE-2008-0412,2.0.0.11,2.0.0.11,"[[None, None, None, []]]"
+CVE-2008-0367,2.0.0.11,3.0,"[[datetime.datetime(2004, 5, 21, 6, 51), datetime.datetime(2008, 1, 28, 16, 36), u'Security: UI', []]]"
+CVE-2008-0017,2.0,3.0.3,"[[datetime.datetime(2008, 7, 2, 17, 31), datetime.datetime(2008, 10, 20, 18, 48), u'XPCOM', []]]"
+CVE-2008-0016,0.8,2.0.0.16,"[[datetime.datetime(2008, 8, 21, 12, 48), datetime.datetime(2008, 8, 21, 13, 51), u'String', []], [datetime.datetime(2008, 7, 2, 16, 47), datetime.datetime(2008, 8, 18, 14, 29), u'XPCOM', []]]"
+CVE-2007-6715,,,[]
